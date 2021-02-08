@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](jdb.png)
 
 
 # Login2explore_Demo_Proj
